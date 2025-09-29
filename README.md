@@ -28,7 +28,7 @@ A TypeScript project implementing a `merge` function to combine three integer ar
 ├── tsconfig.json
 ├── jest.config.js
 └── README.md
-
+```
 
 
 ## Installation
